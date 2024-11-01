@@ -5,5 +5,4 @@ numpy==1.26.4
 streamlit-camera-input-live==0.2.0
 scipy
 streamlit_webrtc
-dlib
-face_recognition
+mediapipe
